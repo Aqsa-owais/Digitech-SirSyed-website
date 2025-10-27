@@ -401,21 +401,24 @@ function App() {
                 <p className="text-slate-600 font-medium">Connect with us:</p>
                 <div className="flex gap-4">
                   <a
-                    href="#"
+                    href="https://www.facebook.com/iCodeguru/"
+                    target="_blank"
                     className="w-10 h-10 bg-sky-100 rounded-full flex items-center justify-center text-sky-600 hover:bg-sky-500 hover:text-white transition-colors"
                     aria-label="Facebook"
                   >
                     <Facebook size={20} />
                   </a>
                   <a
-                    href="#"
+                    href="https://www.youtube.com/@iCodeGuru0"
+                    target="_blank"
                     className="w-10 h-10 bg-sky-100 rounded-full flex items-center justify-center text-sky-600 hover:bg-sky-500 hover:text-white transition-colors"
                     aria-label="Instagram"
                   >
                     <Youtube size={20} />
                   </a>
                   <a
-                    href="#"
+                    href="https://www.linkedin.com/company/icode-guru/posts/?feedView=all"
+                    target="_blank"
                     className="w-10 h-10 bg-sky-100 rounded-full flex items-center justify-center text-sky-600 hover:bg-sky-500 hover:text-white transition-colors"
                     aria-label="LinkedIn"
                   >
@@ -426,7 +429,8 @@ function App() {
 
               {/* Feedback Button */}
               <a
-                href="#"
+                href="https://docs.google.com/forms/d/e/1FAIpQLSessmxG9HB18z6cVLgLYoJQcDazMyoPyb5W_BFF6ByF-IidhA/viewform"
+                target="_blank"
                 className="px-6 py-3 bg-sky-500 text-white rounded-lg font-semibold hover:bg-sky-600 transition-colors shadow-md hover:shadow-lg flex items-center gap-2"
               >
                 <MessageSquare size={20} />
