@@ -363,6 +363,7 @@ function App() {
                   Open the recordings sheet organized by week and topic.
                 </p>
                 <a
+                  target="_blank"
                   href="https://docs.google.com/spreadsheets/d/15a47Zf0uARq3WMG9gV37ucSONDcCPdfSt1yb5B_pvN0/edit?gid=0#gid=0"
                   className="inline-block px-8 py-4 bg-sky-500 text-white rounded-lg font-semibold hover:bg-sky-600 transition-colors shadow-lg hover:shadow-xl"
                 >
