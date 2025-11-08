@@ -227,7 +227,7 @@ function App() {
                 </div>
 
                 {/* Week 2 Assignment */}
-                <div className="border-2 border-sky-200 rounded-xl p-6 bg-gradient-to-br from-sky-50 to-blue-50">
+                {/* <div className="border-2 border-sky-200 rounded-xl p-6 bg-gradient-to-br from-sky-50 to-blue-50">
                   <h3 className="text-2xl font-bold text-slate-800 mb-4">
                     Week 2 Assignment
                   </h3>
@@ -261,10 +261,10 @@ function App() {
                       </div>
                     </a>
                   </div>
-                </div>
+                </div> */}
 
                 {/* Week 3 Assignment */}
-                <div className="border-2 border-sky-200 rounded-xl p-6 bg-gradient-to-br from-sky-50 to-blue-50">
+                {/* <div className="border-2 border-sky-200 rounded-xl p-6 bg-gradient-to-br from-sky-50 to-blue-50">
                   <h3 className="text-2xl font-bold text-slate-800 mb-4">
                     Week 3 Assignment
                   </h3>
@@ -298,10 +298,10 @@ function App() {
                       </div>
                     </a>
                   </div>
-                </div>
+                </div> */}
 
                 {/* Week 4 Assignment */}
-                <div className="border-2 border-sky-200 rounded-xl p-6 bg-gradient-to-br from-sky-50 to-blue-50">
+                {/* <div className="border-2 border-sky-200 rounded-xl p-6 bg-gradient-to-br from-sky-50 to-blue-50">
                   <h3 className="text-2xl font-bold text-slate-800 mb-4">
                     Week 4 Assignment
                   </h3>
@@ -335,7 +335,7 @@ function App() {
                       </div>
                     </a>
                   </div>
-                </div>
+                </div> */}
               </div>
             </div>
           </div>
