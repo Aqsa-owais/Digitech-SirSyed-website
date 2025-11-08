@@ -194,7 +194,8 @@ function App() {
                   </h3>
                   <div className="grid md:grid-cols-2 gap-4">
                     <a
-                      href="#"
+                      target="_blank"
+                      href="https://drive.google.com/file/d/1vRzfk-yPTFyhkbDVmMApsbGchI3XcQez/view?usp=sharing"
                       className="flex items-center gap-3 p-4 bg-white rounded-lg border border-sky-300 hover:border-sky-500 hover:shadow-md transition-all group"
                     >
                       <FileText size={24} className="text-sky-600" />
@@ -208,7 +209,8 @@ function App() {
                       </div>
                     </a>
                     <a
-                      href="#"
+                      target="_blank"
+                      href="https://forms.gle/xRUp1ryB5AqF2fUSA"
                       className="flex items-center gap-3 p-4 bg-white rounded-lg border border-emerald-300 hover:border-emerald-500 hover:shadow-md transition-all group"
                     >
                       <FileText size={24} className="text-emerald-600" />
