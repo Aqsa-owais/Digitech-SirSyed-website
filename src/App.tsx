@@ -233,7 +233,8 @@ function App() {
                   </h3>
                   <div className="grid md:grid-cols-2 gap-4">
                     <a
-                      href="#"
+                      target="_blank"
+                      href="https://docs.google.com/document/d/1kvnFj6gwzoVohmwty0v19aV4RPqs0OQOq4yapN8y2LQ/edit?tab=t.0#heading=h.fu5ffu1ut165"
                       className="flex items-center gap-3 p-4 bg-white rounded-lg border border-sky-300 hover:border-sky-500 hover:shadow-md transition-all group"
                     >
                       <FileText size={24} className="text-sky-600" />
