@@ -266,13 +266,14 @@ function App() {
                 </div>
 
                 {/* Week 3 Assignment */}
-                {/* <div className="border-2 border-sky-200 rounded-xl p-6 bg-gradient-to-br from-sky-50 to-blue-50">
+                <div className="border-2 border-sky-200 rounded-xl p-6 bg-gradient-to-br from-sky-50 to-blue-50">
                   <h3 className="text-2xl font-bold text-slate-800 mb-4">
                     Week 3 Assignment
                   </h3>
                   <div className="grid md:grid-cols-2 gap-4">
                     <a
-                      href="#"
+                      target="_blank"
+                      href="https://docs.google.com/document/d/1bpeNelpYOihnLJb7Sr4zH_pRnZtRIhY78ZDT74t3ixE/edit?tab=t.0#heading=h.3waw299n8mvu"
                       className="flex items-center gap-3 p-4 bg-white rounded-lg border border-sky-300 hover:border-sky-500 hover:shadow-md transition-all group"
                     >
                       <FileText size={24} className="text-sky-600" />
@@ -286,7 +287,8 @@ function App() {
                       </div>
                     </a>
                     <a
-                      href="#"
+                      target="_blank"
+                      href="https://docs.google.com/forms/d/e/1FAIpQLSeV7aqLN8tQVSn9r_QlIws2TUAU0CMmpGHYOoTZBeEFh5xWpw/viewform"
                       className="flex items-center gap-3 p-4 bg-white rounded-lg border border-emerald-300 hover:border-emerald-500 hover:shadow-md transition-all group"
                     >
                       <FileText size={24} className="text-emerald-600" />
@@ -300,7 +302,7 @@ function App() {
                       </div>
                     </a>
                   </div>
-                </div> */}
+                </div> 
 
                 {/* Week 4 Assignment */}
                 {/* <div className="border-2 border-sky-200 rounded-xl p-6 bg-gradient-to-br from-sky-50 to-blue-50">
