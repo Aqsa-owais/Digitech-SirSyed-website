@@ -305,12 +305,13 @@ function App() {
                 </div> 
 
                 {/* Week 4 Assignment */}
-                {/* <div className="border-2 border-sky-200 rounded-xl p-6 bg-gradient-to-br from-sky-50 to-blue-50">
+                <div className="border-2 border-sky-200 rounded-xl p-6 bg-gradient-to-br from-sky-50 to-blue-50">
                   <h3 className="text-2xl font-bold text-slate-800 mb-4">
                     Week 4 Assignment
                   </h3>
                   <div className="grid md:grid-cols-2 gap-4">
                     <a
+                      target="_blank"
                       href="#"
                       className="flex items-center gap-3 p-4 bg-white rounded-lg border border-sky-300 hover:border-sky-500 hover:shadow-md transition-all group"
                     >
@@ -325,7 +326,8 @@ function App() {
                       </div>
                     </a>
                     <a
-                      href="#"
+                      target="_blank"
+                      href="https://docs.google.com/forms/d/e/1FAIpQLSeB48qyZTmhxG7HnLncRONw7Dq4V0tJ4MeoQztCtIfmI05lZQ/viewform"
                       className="flex items-center gap-3 p-4 bg-white rounded-lg border border-emerald-300 hover:border-emerald-500 hover:shadow-md transition-all group"
                     >
                       <FileText size={24} className="text-emerald-600" />
@@ -339,7 +341,7 @@ function App() {
                       </div>
                     </a>
                   </div>
-                </div> */}
+                </div>
               </div>
             </div>
           </div>
