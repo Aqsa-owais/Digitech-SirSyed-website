@@ -342,6 +342,84 @@ function App() {
                     </a>
                   </div>
                 </div>
+
+                {/* Week 5 Assignment */}
+                <div className="border-2 border-sky-200 rounded-xl p-6 bg-gradient-to-br from-sky-50 to-blue-50">
+                  <h3 className="text-2xl font-bold text-slate-800 mb-4">
+                    Week 5 Assignment
+                  </h3>
+                  <div className="grid md:grid-cols-2 gap-4">
+                    <a
+                      target="_blank"
+                      href="https://docs.google.com/document/d/1VvNL0fV0jJiXzrDcuJbyse82ursQvOvPOxV1q1ZMcCc/edit?usp=sharing"
+                      className="flex items-center gap-3 p-4 bg-white rounded-lg border border-sky-300 hover:border-sky-500 hover:shadow-md transition-all group"
+                    >
+                      <FileText size={24} className="text-sky-600" />
+                      <div>
+                        <p className="font-semibold text-slate-800">
+                          Assignment Details
+                        </p>
+                        <span className="text-sm text-sky-600 group-hover:underline">
+                          View Instructions →
+                        </span>
+                      </div>
+                    </a>
+                    <a
+                      target="_blank"
+                      href="https://forms.gle/qcweLocCbYjKv6DR9"
+                      className="flex items-center gap-3 p-4 bg-white rounded-lg border border-emerald-300 hover:border-emerald-500 hover:shadow-md transition-all group"
+                    >
+                      <FileText size={24} className="text-emerald-600" />
+                      <div>
+                        <p className="font-semibold text-slate-800">
+                          Submission Link
+                        </p>
+                        <span className="text-sm text-emerald-600 group-hover:underline">
+                          Submit Work →
+                        </span>
+                      </div>
+                    </a>
+                  </div>
+                </div>
+
+                {/* Week 6 Assignment */}
+                <div className="border-2 border-sky-200 rounded-xl p-6 bg-gradient-to-br from-sky-50 to-blue-50">
+                  <h3 className="text-2xl font-bold text-slate-800 mb-4">
+                    Week 6 Assignment
+                  </h3>
+                  <div className="grid md:grid-cols-2 gap-4">
+                    <a
+                      target="_blank"
+                      href="#"
+                      className="flex items-center gap-3 p-4 bg-white rounded-lg border border-sky-300 hover:border-sky-500 hover:shadow-md transition-all group"
+                    >
+                      <FileText size={24} className="text-sky-600" />
+                      <div>
+                        <p className="font-semibold text-slate-800">
+                          Assignment Details
+                        </p>
+                        <span className="text-sm text-sky-600 group-hover:underline">
+                          View Instructions →
+                        </span>
+                      </div>
+                    </a>
+                    <a
+                      target="_blank"
+                      href=""
+                      className="flex items-center gap-3 p-4 bg-white rounded-lg border border-emerald-300 hover:border-emerald-500 hover:shadow-md transition-all group"
+                    >
+                      <FileText size={24} className="text-emerald-600" />
+                      <div>
+                        <p className="font-semibold text-slate-800">
+                          Submission Link
+                        </p>
+                        <span className="text-sm text-emerald-600 group-hover:underline">
+                          Submit Work →
+                        </span>
+                      </div>
+                    </a>
+                  </div>
+                </div>
               </div>
             </div>
           </div>
