@@ -390,7 +390,7 @@ function App() {
                   <div className="grid md:grid-cols-2 gap-4">
                     <a
                       target="_blank"
-                      href="#"
+                      href="https://docs.google.com/document/d/1_fE5awKAH8x7Mc3Oa3qaylkgSIzgXkvey3h_rNyfaHw/edit?tab=t.0"
                       className="flex items-center gap-3 p-4 bg-white rounded-lg border border-sky-300 hover:border-sky-500 hover:shadow-md transition-all group"
                     >
                       <FileText size={24} className="text-sky-600" />
@@ -405,7 +405,7 @@ function App() {
                     </a>
                     <a
                       target="_blank"
-                      href=""
+                      href="https://docs.google.com/forms/d/e/1FAIpQLScapzjd5ssJck5dB7o9LXNdgk2BhrROZAXeiBdCuaBmwLOlzw/viewform"
                       className="flex items-center gap-3 p-4 bg-white rounded-lg border border-emerald-300 hover:border-emerald-500 hover:shadow-md transition-all group"
                     >
                       <FileText size={24} className="text-emerald-600" />
